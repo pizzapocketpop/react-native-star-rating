@@ -58,6 +58,7 @@
     "jest": "^23.1.0",
     "react": "16.3.1",
     "react-native": "0.55.4",
-    "react-test-renderer": "16.3.1"
+    "react-test-renderer": "16.3.1",
+    "deprecated-react-native-prop-types": "^3.0.1",
   }
 }
